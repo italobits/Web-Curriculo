@@ -1,0 +1,48 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+body {
+  font-family: "montserrat";
+
+}
+
+body h1, h3{
+  text-align: center;
+}
+
+.inicio {
+  background: #0D0F80;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  padding-left: 2%;
+}
+
+.inicio figure {
+  max-width:7250px;
+  max-height:350px;
+  width: 250px;
+  height: auto;
+  }
+
+.quem-sou {
+  background: #060740;
+  color: white;
+  padding-left: 2%;
+}
+.formacao {
+  background: #0D0F80;
+  color: white;
+}
+.experiencia-profissional {
+  background: #060740;
+  color: white;
+}
+.contatos {
+  background: #0D0F80;
+  color: white;
+}
+a:link {
+  color: rgb(255, 255, 255);
+ }
