@@ -5,6 +5,8 @@
 
 body {
   font-family: "montserrat";
+  background: #0D0F80;
+  
 }
 
 body h1, h3{
@@ -32,7 +34,8 @@ nav {
 .quem-sou {
   background: #060740;
   color: white;
-  padding-left: 2.5%;
+  text-align: 15px;
+
 }
 .formacao {
   background: #0D0F80;
